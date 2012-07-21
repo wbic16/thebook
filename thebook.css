@@ -1,0 +1,26 @@
+html
+{
+	margin: 0px;
+	padding: 0px;
+	background: #ffffff;
+}
+body {
+	margin: 0 auto;
+	width: 900px;
+	background-color: #fdfdf7;
+	border: 1px solid #000000;
+	border-radius: 6px;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	box-shadow: 0 0 20px 2px #a7a7a7;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 10pt;
+	padding: 10px;
+}
+h1 {
+	border-bottom: 1px #c0c0ff solid;
+	margin-bottom: 40px;
+}
+h1 + p {
+	margin-top: 20px;
+}
